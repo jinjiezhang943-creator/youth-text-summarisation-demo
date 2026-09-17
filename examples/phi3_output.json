@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Community support",
+    "subcategory": "Access to essentials",
+    "num_responses": 5,
+    "summary": "Students suggest providing essential needs such as food, clothing, and shelter, as well as financial assistance to support impoverished families and the homeless.",
+    "model": "microsoft/Phi-3-mini-4k-instruct"
+  },
+  {
+    "category": "Education",
+    "subcategory": "Improve school performance",
+    "num_responses": 5,
+    "summary": "Students are requesting enhanced support from teachers to improve teaching methods and provide additional study time, with a particular emphasis on assisting students who are struggling academically.",
+    "model": "microsoft/Phi-3-mini-4k-instruct"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Healthy habits",
+    "num_responses": 5,
+    "summary": "Students are advocating for a healthier lifestyle, emphasizing the importance of increased physical activity, better nutrition, adequate sleep, and proper hydration.",
+    "model": "microsoft/Phi-3-mini-4k-instruct"
+  },
+  {
+    "category": "Relationships",
+    "subcategory": "Peer support and friendship",
+    "num_responses": 5,
+    "summary": "The students advocate for a more inclusive and supportive school environment, emphasizing the importance of stopping bullying, fostering friendships, promoting kindness, and supporting lonely peers.",
+    "model": "microsoft/Phi-3-mini-4k-instruct"
+  },
+  {
+    "category": "Wellbeing",
+    "subcategory": "Mental health support services",
+    "num_responses": 5,
+    "summary": "Students are requesting improved mental health support through additional counselors and better counseling services, emphasizing the need for professional guidance and someone to talk to.",
+    "model": "microsoft/Phi-3-mini-4k-instruct"
+  }
+]

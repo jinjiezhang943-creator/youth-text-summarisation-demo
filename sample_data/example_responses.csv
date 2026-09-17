@@ -1,0 +1,26 @@
+response_id,grade,category,subcategory,comments
+S001,3,Community support,Access to essentials,give them food
+S002,4,Community support,Access to essentials,food and clothes
+S003,5,Community support,Access to essentials,help poor families
+S004,6,Community support,Access to essentials,give homeless people a home
+S005,7,Community support,Access to essentials,money for people who need it
+S006,5,Education,Improve school performance,help with school
+S007,6,Education,Improve school performance,more help from teachers
+S008,7,Education,Improve school performance,teach better
+S009,8,Education,Improve school performance,more time to study
+S010,9,Education,Improve school performance,help kids who are behind
+S011,4,Health,Healthy habits,more sport
+S012,5,Health,Healthy habits,eat healthy
+S013,6,Health,Healthy habits,sleep more
+S014,7,Health,Healthy habits,exercise
+S015,8,Health,Healthy habits,drink more water
+S016,6,Relationships,Peer support and friendship,stop bullying
+S017,7,Relationships,Peer support and friendship,help people make friends
+S018,8,Relationships,Peer support and friendship,be nicer to each other
+S019,9,Relationships,Peer support and friendship,include people
+S020,10,Relationships,Peer support and friendship,help lonely kids
+S021,8,Wellbeing,Mental health support services,more counsellors
+S022,9,Wellbeing,Mental health support services,someone to talk to
+S023,10,Wellbeing,Mental health support services,help with mental health
+S024,11,Wellbeing,Mental health support services,better counselling
+S025,12,Wellbeing,Mental health support services,talk to a professional
