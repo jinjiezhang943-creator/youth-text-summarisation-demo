@@ -3,35 +3,45 @@
     "category": "Community support",
     "subcategory": "Access to essentials",
     "num_responses": 5,
-    "summary": "Students suggest providing essential needs such as food, clothing, and shelter, as well as financial assistance to support impoverished families and the homeless.",
+    "summary_method": "direct",
+    "batch_count": 1,
+    "summary": "Some responses highlight the need for community support in providing essentials like food and clothing to students, while others emphasize assistance for poor families and homeless individuals, including offering shelter and financial aid.",
     "model": "microsoft/Phi-3-mini-4k-instruct"
   },
   {
     "category": "Education",
     "subcategory": "Improve school performance",
     "num_responses": 5,
-    "summary": "Students are requesting enhanced support from teachers to improve teaching methods and provide additional study time, with a particular emphasis on assisting students who are struggling academically.",
+    "summary_method": "direct",
+    "batch_count": 1,
+    "summary": "Some students suggest that improving school performance could involve providing more assistance from teachers and allocating additional time for study, with a particular emphasis on supporting students who are struggling academically.",
     "model": "microsoft/Phi-3-mini-4k-instruct"
   },
   {
     "category": "Health",
     "subcategory": "Healthy habits",
     "num_responses": 5,
-    "summary": "Students are advocating for a healthier lifestyle, emphasizing the importance of increased physical activity, better nutrition, adequate sleep, and proper hydration.",
+    "summary_method": "direct",
+    "batch_count": 1,
+    "summary": "The predominant theme in student responses regarding healthy habits is the emphasis on physical activity, with suggestions to engage in more sports and exercise. Additionally, there is a consensus on the importance of dietary choices and hydration, with recommendations to eat healthily and drink more water.",
     "model": "microsoft/Phi-3-mini-4k-instruct"
   },
   {
     "category": "Relationships",
     "subcategory": "Peer support and friendship",
     "num_responses": 5,
-    "summary": "The students advocate for a more inclusive and supportive school environment, emphasizing the importance of stopping bullying, fostering friendships, promoting kindness, and supporting lonely peers.",
+    "summary_method": "direct",
+    "batch_count": 1,
+    "summary": "The main theme in the student responses under the 'Peer support and friendship' sub-category is the emphasis on creating a more inclusive and supportive environment that actively combats bullying and fosters friendships, particularly for those who are lonely or struggling to connect with peers.",
     "model": "microsoft/Phi-3-mini-4k-instruct"
   },
   {
     "category": "Wellbeing",
     "subcategory": "Mental health support services",
     "num_responses": 5,
-    "summary": "Students are requesting improved mental health support through additional counselors and better counseling services, emphasizing the need for professional guidance and someone to talk to.",
+    "summary_method": "direct",
+    "batch_count": 1,
+    "summary": "Some students emphasized the need for more counselors and better counseling services, while others highlighted the importance of having someone to talk to, specifically mentioning the desire for help with mental health and the option to talk to a professional.",
     "model": "microsoft/Phi-3-mini-4k-instruct"
   }
 ]
